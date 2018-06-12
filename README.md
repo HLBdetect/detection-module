@@ -3,4 +3,5 @@ In this repository, HLB detection model is posted. But data folder is not posted
 
 Get this model:
 
-git clone 
+$git clone https://github.com/HLBdetect/detection-module.git
+
